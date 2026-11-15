@@ -27,3 +27,7 @@ Tested on GNOME Shell 51 (Fedora 45). If a GNOME upgrade marks it incompatible, 
 ```sh
 journalctl --user -b | grep -i -A5 power-watts
 ```
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
