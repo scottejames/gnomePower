@@ -1,0 +1,7 @@
+{
+  "uuid": "power-watts@scottejames.local",
+  "name": "Power Watts",
+  "description": "Shows charger wattage and battery charge/discharge rate in the top bar.",
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+  "version": 1
+}
